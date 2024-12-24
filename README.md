@@ -48,12 +48,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AymanSec/AymanSec/output/snake.svg" alt="Snake animation" />
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/AymanSec/AymanSec/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AymanSec/count.svg?"  />
 </div>
-
-###
