@@ -49,7 +49,7 @@
 <br clear="both">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/AymanSec/AymanSec/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AymanSec/AboutMe/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
